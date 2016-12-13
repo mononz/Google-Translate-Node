@@ -1,0 +1,6 @@
+var api_key = 'API_KEY';
+
+var languages = ['de', 'es', 'fr', 'it', 'ko', 'ru', 'pl'];
+
+module.exports.api_key = api_key;
+module.exports.languages = languages;

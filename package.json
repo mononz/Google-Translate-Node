@@ -1,0 +1,14 @@
+{
+  "name": "SimpleGoogleTranslateScript",
+  "version": "1.0.0",
+  "description": "Simple script using the google translate API to translate a word/phrase into multiple languages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jared Hall",
+  "license": "ISC",
+  "dependencies": {
+    "google-translate": "^1.0.7"
+  }
+}
